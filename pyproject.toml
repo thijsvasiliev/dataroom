@@ -1,0 +1,5 @@
+[project]
+name = "dataroom"
+version = "0.1.0"
+description = "Give a query, get a dataroom. Pi + self-hosted Qwen3.6 research harness on a single L4."
+requires-python = ">=3.10"
